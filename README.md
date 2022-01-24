@@ -5,7 +5,7 @@ As part of the University of London's Specialization on K-Means Clustering algor
 
 I created a model of each, and evaluated the results. In the end, the SVM won.
 
-Installations:
+# Installations:
 - Numpy
 - Pandas
 - Matplotlib
