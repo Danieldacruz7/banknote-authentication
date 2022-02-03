@@ -11,3 +11,8 @@ I created a model of each, and evaluated the results. In the end, the SVM won.
 - Matplotlib
 - Scipy
 - Sklearn
+
+# Interacting with the Project
+The main file, Banknote Autentication Project.ipynb, is a Jupyter notebook. All the code and outputs are displayed for ease of use. 
+
+The data files included are the Banknote-authentication-dataset.csv and Banknote Authentication GT Labels.csv. The first is the original dataset provided by the University of London and the second is the original dataset from OpenML.
